@@ -9,7 +9,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "https://pavithraleka2004.github.io/inventory/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
